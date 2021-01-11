@@ -1,0 +1,15 @@
+{
+  "name": "js-webchannel-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init2.js",
+  "dependencies": {
+    "firebase": "^8.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
